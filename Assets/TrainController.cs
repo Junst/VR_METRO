@@ -13,6 +13,8 @@ public class TrainController : MonoBehaviour {
 
     private void Update()
     {
+        gameObject.transform.position.z ++;
+
         if (gameObject.transform.position.z < endPointTr.transform.position.z)
             return;
         // 전동차 움직이는 코드
