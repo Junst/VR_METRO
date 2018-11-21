@@ -125,7 +125,7 @@ PlayerSettings:
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
   xboxOneEnable7thCore: 0
-  isWsaHolographicRemotingEnabled: 0
+  isWsaHolographicRemotingEnabled: 1
   vrSettings:
     cardboard:
       depthFormat: 0
@@ -292,6 +292,10 @@ PlayerSettings:
     m_Enabled: 1
     m_Devices:
     - Oculus
+  - m_BuildTarget: Metro
+    m_Enabled: 1
+    m_Devices:
+    - WindowsMR
   m_BuildTargetEnableVuforiaSettings: []
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -623,7 +627,13 @@ PlayerSettings:
   metroTileBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenUseBackgroundColor: 0
-  platformCapabilities: {}
+  platformCapabilities:
+    WindowsStoreApps:
+      HumanInterfaceDevice: False
+      InternetClient: False
+      InternetClientServer: False
+      PrivateNetworkClientServer: False
+      SpatialPerception: True
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
