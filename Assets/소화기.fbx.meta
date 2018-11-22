@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: c171e66abe96c7e40adba529da10e9b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArchiCAD_STL_Unit=MM_Scale=100
+    100002: ArchiCAD_STL_Unit=MM_Scale=100_10
+    100004: ArchiCAD_STL_Unit=MM_Scale=100_11
+    100006: ArchiCAD_STL_Unit=MM_Scale=100_12
+    100008: ArchiCAD_STL_Unit=MM_Scale=100_13
+    100010: ArchiCAD_STL_Unit=MM_Scale=100_14
+    100012: ArchiCAD_STL_Unit=MM_Scale=100_15
+    100014: ArchiCAD_STL_Unit=MM_Scale=100_16
+    100016: ArchiCAD_STL_Unit=MM_Scale=100_17
+    100018: ArchiCAD_STL_Unit=MM_Scale=100_18
+    100020: ArchiCAD_STL_Unit=MM_Scale=100_19
+    100022: ArchiCAD_STL_Unit=MM_Scale=100_2
+    100024: ArchiCAD_STL_Unit=MM_Scale=100_20
+    100026: ArchiCAD_STL_Unit=MM_Scale=100_21
+    100028: ArchiCAD_STL_Unit=MM_Scale=100_22
+    100030: ArchiCAD_STL_Unit=MM_Scale=100_23
+    100032: ArchiCAD_STL_Unit=MM_Scale=100_24
+    100034: ArchiCAD_STL_Unit=MM_Scale=100_25
+    100036: ArchiCAD_STL_Unit=MM_Scale=100_26
+    100038: ArchiCAD_STL_Unit=MM_Scale=100_27
+    100040: ArchiCAD_STL_Unit=MM_Scale=100_28
+    100042: ArchiCAD_STL_Unit=MM_Scale=100_29
+    100044: ArchiCAD_STL_Unit=MM_Scale=100_3
+    100046: ArchiCAD_STL_Unit=MM_Scale=100_30
+    100048: ArchiCAD_STL_Unit=MM_Scale=100_31
+    100050: ArchiCAD_STL_Unit=MM_Scale=100_32
+    100052: ArchiCAD_STL_Unit=MM_Scale=100_33
+    100054: ArchiCAD_STL_Unit=MM_Scale=100_34
+    100056: ArchiCAD_STL_Unit=MM_Scale=100_35
+    100058: ArchiCAD_STL_Unit=MM_Scale=100_36
+    100060: ArchiCAD_STL_Unit=MM_Scale=100_37
+    100062: ArchiCAD_STL_Unit=MM_Scale=100_4
+    100064: ArchiCAD_STL_Unit=MM_Scale=100_5
+    100066: ArchiCAD_STL_Unit=MM_Scale=100_6
+    100068: ArchiCAD_STL_Unit=MM_Scale=100_7
+    100070: ArchiCAD_STL_Unit=MM_Scale=100_8
+    100072: ArchiCAD_STL_Unit=MM_Scale=100_9
+    100074: "\uAE30\uBCF8\uAC12"
+    100076: "\uB3D9\uADF8\uB780 \uD2C0 - \uC544\uB7AB\uBD80\uBD84"
+    100078: "\uB3D9\uADF8\uB780 \uD2C0 -\uC717\uBD80\uBD84"
+    100080: "\uBC14\uB514"
+    100082: "\uBC14\uB514 \uC704\uC544\uB798\uBD80\uBD84"
+    100084: //RootNode
+    100086: "\uC190\uC7A1\uC774"
+    100088: "\uC5F0\uACB0\uACE0\uB9AC"
+    100090: "\uD638\uC2A4"
+    400000: ArchiCAD_STL_Unit=MM_Scale=100
+    400002: ArchiCAD_STL_Unit=MM_Scale=100_10
+    400004: ArchiCAD_STL_Unit=MM_Scale=100_11
+    400006: ArchiCAD_STL_Unit=MM_Scale=100_12
+    400008: ArchiCAD_STL_Unit=MM_Scale=100_13
+    400010: ArchiCAD_STL_Unit=MM_Scale=100_14
+    400012: ArchiCAD_STL_Unit=MM_Scale=100_15
+    400014: ArchiCAD_STL_Unit=MM_Scale=100_16
+    400016: ArchiCAD_STL_Unit=MM_Scale=100_17
+    400018: ArchiCAD_STL_Unit=MM_Scale=100_18
+    400020: ArchiCAD_STL_Unit=MM_Scale=100_19
+    400022: ArchiCAD_STL_Unit=MM_Scale=100_2
+    400024: ArchiCAD_STL_Unit=MM_Scale=100_20
+    400026: ArchiCAD_STL_Unit=MM_Scale=100_21
+    400028: ArchiCAD_STL_Unit=MM_Scale=100_22
+    400030: ArchiCAD_STL_Unit=MM_Scale=100_23
+    400032: ArchiCAD_STL_Unit=MM_Scale=100_24
+    400034: ArchiCAD_STL_Unit=MM_Scale=100_25
+    400036: ArchiCAD_STL_Unit=MM_Scale=100_26
+    400038: ArchiCAD_STL_Unit=MM_Scale=100_27
+    400040: ArchiCAD_STL_Unit=MM_Scale=100_28
+    400042: ArchiCAD_STL_Unit=MM_Scale=100_29
+    400044: ArchiCAD_STL_Unit=MM_Scale=100_3
+    400046: ArchiCAD_STL_Unit=MM_Scale=100_30
+    400048: ArchiCAD_STL_Unit=MM_Scale=100_31
+    400050: ArchiCAD_STL_Unit=MM_Scale=100_32
+    400052: ArchiCAD_STL_Unit=MM_Scale=100_33
+    400054: ArchiCAD_STL_Unit=MM_Scale=100_34
+    400056: ArchiCAD_STL_Unit=MM_Scale=100_35
+    400058: ArchiCAD_STL_Unit=MM_Scale=100_36
+    400060: ArchiCAD_STL_Unit=MM_Scale=100_37
+    400062: ArchiCAD_STL_Unit=MM_Scale=100_4
+    400064: ArchiCAD_STL_Unit=MM_Scale=100_5
+    400066: ArchiCAD_STL_Unit=MM_Scale=100_6
+    400068: ArchiCAD_STL_Unit=MM_Scale=100_7
+    400070: ArchiCAD_STL_Unit=MM_Scale=100_8
+    400072: ArchiCAD_STL_Unit=MM_Scale=100_9
+    400074: "\uAE30\uBCF8\uAC12"
+    400076: "\uB3D9\uADF8\uB780 \uD2C0 - \uC544\uB7AB\uBD80\uBD84"
+    400078: "\uB3D9\uADF8\uB780 \uD2C0 -\uC717\uBD80\uBD84"
+    400080: "\uBC14\uB514"
+    400082: "\uBC14\uB514 \uC704\uC544\uB798\uBD80\uBD84"
+    400084: //RootNode
+    400086: "\uC190\uC7A1\uC774"
+    400088: "\uC5F0\uACB0\uACE0\uB9AC"
+    400090: "\uD638\uC2A4"
+    2100000: "\uC11D\uACE0 (3)"
+    2100002: "\uC11D\uACE0"
+    2100004: "\uC7AC\uC9C8_1"
+    2100006: "\uC11D\uACE0 (5)"
+    2100008: "\uC11D\uACE0 (4)"
+    2100010: "\uC11D\uACE0 (2)"
+    2100012: "\uC11D\uACE0 (1)"
+    2100014: "\uC11D\uACE0 (7)"
+    2300000: ArchiCAD_STL_Unit=MM_Scale=100
+    2300002: ArchiCAD_STL_Unit=MM_Scale=100_10
+    2300004: ArchiCAD_STL_Unit=MM_Scale=100_11
+    2300006: ArchiCAD_STL_Unit=MM_Scale=100_12
+    2300008: ArchiCAD_STL_Unit=MM_Scale=100_13
+    2300010: ArchiCAD_STL_Unit=MM_Scale=100_14
+    2300012: ArchiCAD_STL_Unit=MM_Scale=100_15
+    2300014: ArchiCAD_STL_Unit=MM_Scale=100_16
+    2300016: ArchiCAD_STL_Unit=MM_Scale=100_17
+    2300018: ArchiCAD_STL_Unit=MM_Scale=100_18
+    2300020: ArchiCAD_STL_Unit=MM_Scale=100_19
+    2300022: ArchiCAD_STL_Unit=MM_Scale=100_2
+    2300024: ArchiCAD_STL_Unit=MM_Scale=100_20
+    2300026: ArchiCAD_STL_Unit=MM_Scale=100_21
+    2300028: ArchiCAD_STL_Unit=MM_Scale=100_22
+    2300030: ArchiCAD_STL_Unit=MM_Scale=100_23
+    2300032: ArchiCAD_STL_Unit=MM_Scale=100_24
+    2300034: ArchiCAD_STL_Unit=MM_Scale=100_25
+    2300036: ArchiCAD_STL_Unit=MM_Scale=100_26
+    2300038: ArchiCAD_STL_Unit=MM_Scale=100_27
+    2300040: ArchiCAD_STL_Unit=MM_Scale=100_28
+    2300042: ArchiCAD_STL_Unit=MM_Scale=100_29
+    2300044: ArchiCAD_STL_Unit=MM_Scale=100_3
+    2300046: ArchiCAD_STL_Unit=MM_Scale=100_30
+    2300048: ArchiCAD_STL_Unit=MM_Scale=100_31
+    2300050: ArchiCAD_STL_Unit=MM_Scale=100_32
+    2300052: ArchiCAD_STL_Unit=MM_Scale=100_33
+    2300054: ArchiCAD_STL_Unit=MM_Scale=100_34
+    2300056: ArchiCAD_STL_Unit=MM_Scale=100_35
+    2300058: ArchiCAD_STL_Unit=MM_Scale=100_36
+    2300060: ArchiCAD_STL_Unit=MM_Scale=100_37
+    2300062: ArchiCAD_STL_Unit=MM_Scale=100_4
+    2300064: ArchiCAD_STL_Unit=MM_Scale=100_5
+    2300066: ArchiCAD_STL_Unit=MM_Scale=100_6
+    2300068: ArchiCAD_STL_Unit=MM_Scale=100_7
+    2300070: ArchiCAD_STL_Unit=MM_Scale=100_8
+    2300072: ArchiCAD_STL_Unit=MM_Scale=100_9
+    3300000: ArchiCAD_STL_Unit=MM_Scale=100
+    3300002: ArchiCAD_STL_Unit=MM_Scale=100_10
+    3300004: ArchiCAD_STL_Unit=MM_Scale=100_11
+    3300006: ArchiCAD_STL_Unit=MM_Scale=100_12
+    3300008: ArchiCAD_STL_Unit=MM_Scale=100_13
+    3300010: ArchiCAD_STL_Unit=MM_Scale=100_14
+    3300012: ArchiCAD_STL_Unit=MM_Scale=100_15
+    3300014: ArchiCAD_STL_Unit=MM_Scale=100_16
+    3300016: ArchiCAD_STL_Unit=MM_Scale=100_17
+    3300018: ArchiCAD_STL_Unit=MM_Scale=100_18
+    3300020: ArchiCAD_STL_Unit=MM_Scale=100_19
+    3300022: ArchiCAD_STL_Unit=MM_Scale=100_2
+    3300024: ArchiCAD_STL_Unit=MM_Scale=100_20
+    3300026: ArchiCAD_STL_Unit=MM_Scale=100_21
+    3300028: ArchiCAD_STL_Unit=MM_Scale=100_22
+    3300030: ArchiCAD_STL_Unit=MM_Scale=100_23
+    3300032: ArchiCAD_STL_Unit=MM_Scale=100_24
+    3300034: ArchiCAD_STL_Unit=MM_Scale=100_25
+    3300036: ArchiCAD_STL_Unit=MM_Scale=100_26
+    3300038: ArchiCAD_STL_Unit=MM_Scale=100_27
+    3300040: ArchiCAD_STL_Unit=MM_Scale=100_28
+    3300042: ArchiCAD_STL_Unit=MM_Scale=100_29
+    3300044: ArchiCAD_STL_Unit=MM_Scale=100_3
+    3300046: ArchiCAD_STL_Unit=MM_Scale=100_30
+    3300048: ArchiCAD_STL_Unit=MM_Scale=100_31
+    3300050: ArchiCAD_STL_Unit=MM_Scale=100_32
+    3300052: ArchiCAD_STL_Unit=MM_Scale=100_33
+    3300054: ArchiCAD_STL_Unit=MM_Scale=100_34
+    3300056: ArchiCAD_STL_Unit=MM_Scale=100_35
+    3300058: ArchiCAD_STL_Unit=MM_Scale=100_36
+    3300060: ArchiCAD_STL_Unit=MM_Scale=100_37
+    3300062: ArchiCAD_STL_Unit=MM_Scale=100_4
+    3300064: ArchiCAD_STL_Unit=MM_Scale=100_5
+    3300066: ArchiCAD_STL_Unit=MM_Scale=100_6
+    3300068: ArchiCAD_STL_Unit=MM_Scale=100_7
+    3300070: ArchiCAD_STL_Unit=MM_Scale=100_8
+    3300072: ArchiCAD_STL_Unit=MM_Scale=100_9
+    4300000: ArchiCAD_STL_Unit=MM_Scale=100
+    4300002: ArchiCAD_STL_Unit=MM_Scale=100_25
+    4300004: ArchiCAD_STL_Unit=MM_Scale=100_33
+    4300006: ArchiCAD_STL_Unit=MM_Scale=100_2
+    4300008: ArchiCAD_STL_Unit=MM_Scale=100_29
+    4300010: ArchiCAD_STL_Unit=MM_Scale=100_3
+    4300012: ArchiCAD_STL_Unit=MM_Scale=100_24
+    4300014: ArchiCAD_STL_Unit=MM_Scale=100_26
+    4300016: ArchiCAD_STL_Unit=MM_Scale=100_28
+    4300018: ArchiCAD_STL_Unit=MM_Scale=100_30
+    4300020: ArchiCAD_STL_Unit=MM_Scale=100_32
+    4300022: ArchiCAD_STL_Unit=MM_Scale=100_4
+    4300024: ArchiCAD_STL_Unit=MM_Scale=100_6
+    4300026: ArchiCAD_STL_Unit=MM_Scale=100_7
+    4300028: ArchiCAD_STL_Unit=MM_Scale=100_8
+    4300030: ArchiCAD_STL_Unit=MM_Scale=100_9
+    4300032: ArchiCAD_STL_Unit=MM_Scale=100_10
+    4300034: ArchiCAD_STL_Unit=MM_Scale=100_11
+    4300036: ArchiCAD_STL_Unit=MM_Scale=100_12
+    4300038: ArchiCAD_STL_Unit=MM_Scale=100_13
+    4300040: ArchiCAD_STL_Unit=MM_Scale=100_14
+    4300042: ArchiCAD_STL_Unit=MM_Scale=100_15
+    4300044: ArchiCAD_STL_Unit=MM_Scale=100_16
+    4300046: ArchiCAD_STL_Unit=MM_Scale=100_17
+    4300048: ArchiCAD_STL_Unit=MM_Scale=100_18
+    4300050: ArchiCAD_STL_Unit=MM_Scale=100_19
+    4300052: ArchiCAD_STL_Unit=MM_Scale=100_20
+    4300054: ArchiCAD_STL_Unit=MM_Scale=100_21
+    4300056: ArchiCAD_STL_Unit=MM_Scale=100_22
+    4300058: ArchiCAD_STL_Unit=MM_Scale=100_23
+    4300060: ArchiCAD_STL_Unit=MM_Scale=100_36
+    4300062: ArchiCAD_STL_Unit=MM_Scale=100_37
+    4300064: ArchiCAD_STL_Unit=MM_Scale=100_5
+    4300066: ArchiCAD_STL_Unit=MM_Scale=100_27
+    4300068: ArchiCAD_STL_Unit=MM_Scale=100_31
+    4300070: ArchiCAD_STL_Unit=MM_Scale=100_34
+    4300072: ArchiCAD_STL_Unit=MM_Scale=100_35
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
